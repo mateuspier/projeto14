@@ -65,7 +65,7 @@ Este projeto possui limita sua licença a uso pessoal, somente, e é proibida a 
 
 -----------------------------------------------------------------------------------
 
-## Autores 👨 
+## Autoria 👨 
 
 O projeto contou com a produção e realização do estudante Mateus Santos, aluno do 5º semestre do curso de tecnologia em Sistemas para Internet do Instituto Federal de Brasília (IFB) – Campus Brasília. O desenvolvimento ocorreu durante o semestre letivo em curso da disciplina de Programação para Internet II, ministrada pelo professor Fábio Henrique.
 
@@ -84,7 +84,7 @@ O projeto contou com a produção e realização do estudante Mateus Santos, alu
 • Abra Pull Requests com atualizações
 • Discuta ideias em Issues
 • Compartilhe o repositório com a sua comunidade
-• Envie feedbacks por e-mail para mateus.santos5@estudante.ifb.edu.br ou richard.ornelas@estudante.ifb.edu.br 
+• Envie feedbacks por e-mail para mateus.santos5@estudante.ifb.edu.br 
 
 -----------------------------------------------------------------------------------
 
